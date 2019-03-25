@@ -14,13 +14,13 @@ dependencies:
   flutter_twitter_login:
     git: git://github.com/diegoveloper/flutter_twitter_login.git
 
-  firebase_auth: ^0.8.0+1
+  firebase_auth: ^0.8.2
 
   google_sign_in: ^4.0.0
   flutter_facebook_login:    
     git:
-      url: https://github.com/roughike/flutter_facebook_login
-      ref: e69fef3
+      url: https://github.com/qurami/flutter_facebook_login.git
+      ref: fix-loginkit-dependency
 
 dev_dependencies:
   flutter_test:
